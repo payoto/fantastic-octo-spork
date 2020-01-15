@@ -17,7 +17,7 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install fantastic_octo_spork`
 
 ## How to use
 
